@@ -19,8 +19,13 @@ Or install it yourself as:
 ## Usage
 
 This is a gem that sees the best path between two points in a graph
-	
+
 Configure DijkstraGem
+
+
+As an example we will use the following graph
+
+![Sin titulo](img/Grafo.png)
 
 	require 'dijkstra_gem'
 	dijkstra = DijkstraGem.new(6)
