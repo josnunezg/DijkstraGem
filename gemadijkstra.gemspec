@@ -1,5 +1,5 @@
 Gem::Specification.new do |s|
-  s.name = "dijkstra"
+  s.name = "dijkstra_gem"
   s.version = "0.1.0"
   s.date = "2018-01-03"
   s.authors = ["José Núñez"]
