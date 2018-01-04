@@ -22,6 +22,7 @@ This is a gem that sees the best path between two points in a graph
 	
 Configure DijkstraGem
 
+	require 'dijkstra_gem'
 	dijkstra = DijkstraGem.new(6)
 
 6 = number of points or nodos
