@@ -1,6 +1,6 @@
 Gem::Specification.new do |s|
   s.name = "dijkstra"
-  s.version = "0.0.1"
+  s.version = "0.1.0"
   s.date = "2018-01-03"
   s.authors = ["José Núñez"]
   s.email = ["josnunezg@gmail.com"]
